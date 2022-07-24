@@ -124,7 +124,7 @@
   <data name="btnguardar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgUAAAIFCAYAAABCnI4NAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA33AAAN9wHQALrsAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA32AAAN9gECR1gIAAAAB3RJ
         TUUH4gsJDxQ4kHBGRAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACNhSURBVHhe
         7d15lGZ1fefxVHfTTbc0gsomKJgILoBRwQWMcRAnY8B43HAnTkxwGZO4xWOOEo2JspjFPYsbybiSxS2J
         W0zcFR3jlohEEXdBBQVlp+mZz02+c3Kn8ozIvc9TdX9Vr9c57z9zol3f8/khXVXPT8BKeNG5D98l3Trd
@@ -280,9 +280,6 @@
         AAAASUVORK5CYII=
 </value>
   </data>
-  <metadata name="DataGridViewCheckBoxColumn1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <metadata name="DataGridViewCheckBoxColumn1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>

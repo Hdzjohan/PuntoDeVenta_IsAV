@@ -265,7 +265,7 @@
             this.Label5.Size = new System.Drawing.Size(427, 72);
             this.Label5.TabIndex = 609;
             this.Label5.Text = "Para que puedas Recibir reportes en tu Correo deberas Sincronizar tu Cuenta Gmail" +
-    " con ADA 369";
+    " con IsA V";
             this.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btncerrar

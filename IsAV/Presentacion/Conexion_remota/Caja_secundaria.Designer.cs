@@ -46,7 +46,7 @@
             // 
             // Panel7
             // 
-            this.Panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(0)))));
+            this.Panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.Panel7.Dock = System.Windows.Forms.DockStyle.Top;
             this.Panel7.Location = new System.Drawing.Point(0, 0);
             this.Panel7.Name = "Panel7";

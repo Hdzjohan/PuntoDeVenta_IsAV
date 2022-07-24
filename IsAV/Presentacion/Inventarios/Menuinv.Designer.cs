@@ -235,7 +235,7 @@
             // 
             // PanelI
             // 
-            this.PanelI.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(1)))));
+            this.PanelI.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.PanelI.Location = new System.Drawing.Point(240, 54);
             this.PanelI.Name = "PanelI";
             this.PanelI.Size = new System.Drawing.Size(158, 4);

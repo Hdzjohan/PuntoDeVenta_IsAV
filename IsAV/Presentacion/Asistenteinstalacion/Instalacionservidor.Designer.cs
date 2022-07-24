@@ -126,6 +126,8 @@
             // 
             // PictureBox7
             // 
+            this.PictureBox7.Image = global::IsAV.Properties.Resources.IsAVlogo;
+            this.PictureBox7.InitialImage = global::IsAV.Properties.Resources.IsAVlogo;
             this.PictureBox7.Location = new System.Drawing.Point(191, 12);
             this.PictureBox7.Name = "PictureBox7";
             this.PictureBox7.Size = new System.Drawing.Size(110, 63);
@@ -375,7 +377,7 @@
             this.txtusuario.Name = "txtusuario";
             this.txtusuario.Size = new System.Drawing.Size(134, 20);
             this.txtusuario.TabIndex = 635;
-            this.txtusuario.Text = "pruebas2020";
+            this.txtusuario.Text = "IsAVUser";
             // 
             // Label15
             // 
@@ -574,7 +576,7 @@
             this.txtnombre_scrypt.Name = "txtnombre_scrypt";
             this.txtnombre_scrypt.Size = new System.Drawing.Size(133, 20);
             this.txtnombre_scrypt.TabIndex = 621;
-            this.txtnombre_scrypt.Text = "ScriptBASEADACURSO";
+            this.txtnombre_scrypt.Text = "ScriptDBVending";
             // 
             // TXTbasededatos
             // 
@@ -582,7 +584,7 @@
             this.TXTbasededatos.Name = "TXTbasededatos";
             this.TXTbasededatos.Size = new System.Drawing.Size(134, 20);
             this.TXTbasededatos.TabIndex = 621;
-            this.TXTbasededatos.Text = "BASEADACURSO";
+            this.TXTbasededatos.Text = "DBVending";
             // 
             // lblcontraseña
             // 
@@ -590,7 +592,7 @@
             this.lblcontraseña.Name = "lblcontraseña";
             this.lblcontraseña.Size = new System.Drawing.Size(134, 20);
             this.lblcontraseña.TabIndex = 621;
-            this.lblcontraseña.Text = "pruebas123";
+            this.lblcontraseña.Text = "MasterkeySYS";
             // 
             // lblnombredeservicio
             // 

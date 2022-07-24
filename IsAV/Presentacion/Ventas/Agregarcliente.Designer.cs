@@ -30,6 +30,10 @@ namespace IsAV.Presentacion.Ventas
         private void InitializeComponent()
         {
             this.PanelregistroClientes = new System.Windows.Forms.Panel();
+            this.txtnroDoc = new System.Windows.Forms.TextBox();
+            this.Label14 = new System.Windows.Forms.Label();
+            this.RRuc = new System.Windows.Forms.RadioButton();
+            this.Rdni = new System.Windows.Forms.RadioButton();
             this.btncerrar = new System.Windows.Forms.Button();
             this.lblcp = new System.Windows.Forms.Label();
             this.flowLayoutPanel4 = new System.Windows.Forms.FlowLayoutPanel();
@@ -44,10 +48,6 @@ namespace IsAV.Presentacion.Ventas
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.RRuc = new System.Windows.Forms.RadioButton();
-            this.Rdni = new System.Windows.Forms.RadioButton();
-            this.txtnroDoc = new System.Windows.Forms.TextBox();
-            this.Label14 = new System.Windows.Forms.Label();
             this.PanelregistroClientes.SuspendLayout();
             this.flowLayoutPanel4.SuspendLayout();
             this.SuspendLayout();
@@ -77,6 +77,47 @@ namespace IsAV.Presentacion.Ventas
             this.PanelregistroClientes.Name = "PanelregistroClientes";
             this.PanelregistroClientes.Size = new System.Drawing.Size(650, 422);
             this.PanelregistroClientes.TabIndex = 633;
+            // 
+            // txtnroDoc
+            // 
+            this.txtnroDoc.Location = new System.Drawing.Point(138, 206);
+            this.txtnroDoc.Name = "txtnroDoc";
+            this.txtnroDoc.Size = new System.Drawing.Size(351, 26);
+            this.txtnroDoc.TabIndex = 629;
+            // 
+            // Label14
+            // 
+            this.Label14.AutoSize = true;
+            this.Label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label14.ForeColor = System.Drawing.Color.Black;
+            this.Label14.Location = new System.Drawing.Point(3, 209);
+            this.Label14.Name = "Label14";
+            this.Label14.Size = new System.Drawing.Size(129, 20);
+            this.Label14.TabIndex = 628;
+            this.Label14.Text = "Nro. Documento:";
+            // 
+            // RRuc
+            // 
+            this.RRuc.AutoSize = true;
+            this.RRuc.Location = new System.Drawing.Point(204, 173);
+            this.RRuc.Name = "RRuc";
+            this.RRuc.Size = new System.Drawing.Size(60, 24);
+            this.RRuc.TabIndex = 627;
+            this.RRuc.TabStop = true;
+            this.RRuc.Text = "RFC";
+            this.RRuc.UseVisualStyleBackColor = true;
+            // 
+            // Rdni
+            // 
+            this.Rdni.AutoSize = true;
+            this.Rdni.Checked = true;
+            this.Rdni.Location = new System.Drawing.Point(132, 173);
+            this.Rdni.Name = "Rdni";
+            this.Rdni.Size = new System.Drawing.Size(72, 24);
+            this.Rdni.TabIndex = 626;
+            this.Rdni.TabStop = true;
+            this.Rdni.Text = "CURP";
+            this.Rdni.UseVisualStyleBackColor = true;
             // 
             // btncerrar
             // 
@@ -121,7 +162,7 @@ namespace IsAV.Presentacion.Ventas
             // 
             // btnGuardar
             // 
-            this.btnGuardar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(1)))));
+            this.btnGuardar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btnGuardar.FlatAppearance.BorderSize = 0;
             this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGuardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -221,47 +262,6 @@ namespace IsAV.Presentacion.Ventas
             this.label2.Size = new System.Drawing.Size(69, 20);
             this.label2.TabIndex = 0;
             this.label2.Text = "Nombre:";
-            // 
-            // RRuc
-            // 
-            this.RRuc.AutoSize = true;
-            this.RRuc.Location = new System.Drawing.Point(204, 173);
-            this.RRuc.Name = "RRuc";
-            this.RRuc.Size = new System.Drawing.Size(62, 24);
-            this.RRuc.TabIndex = 627;
-            this.RRuc.TabStop = true;
-            this.RRuc.Text = "RUC";
-            this.RRuc.UseVisualStyleBackColor = true;
-            // 
-            // Rdni
-            // 
-            this.Rdni.AutoSize = true;
-            this.Rdni.Checked = true;
-            this.Rdni.Location = new System.Drawing.Point(132, 173);
-            this.Rdni.Name = "Rdni";
-            this.Rdni.Size = new System.Drawing.Size(55, 24);
-            this.Rdni.TabIndex = 626;
-            this.Rdni.TabStop = true;
-            this.Rdni.Text = "DNI";
-            this.Rdni.UseVisualStyleBackColor = true;
-            // 
-            // txtnroDoc
-            // 
-            this.txtnroDoc.Location = new System.Drawing.Point(138, 206);
-            this.txtnroDoc.Name = "txtnroDoc";
-            this.txtnroDoc.Size = new System.Drawing.Size(351, 26);
-            this.txtnroDoc.TabIndex = 629;
-            // 
-            // Label14
-            // 
-            this.Label14.AutoSize = true;
-            this.Label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label14.ForeColor = System.Drawing.Color.Black;
-            this.Label14.Location = new System.Drawing.Point(3, 209);
-            this.Label14.Name = "Label14";
-            this.Label14.Size = new System.Drawing.Size(129, 20);
-            this.Label14.TabIndex = 628;
-            this.Label14.Text = "Nro. Documento:";
             // 
             // Agregarcliente
             // 

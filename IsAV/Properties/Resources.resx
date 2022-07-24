@@ -247,8 +247,8 @@
   <data name="insatisfaccion" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\insatisfaccion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ada369logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ada369logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="IsAVlogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IsAVlogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="jugar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\jugar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

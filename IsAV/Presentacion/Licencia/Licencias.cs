@@ -49,7 +49,7 @@ namespace RestCsharp.Presentacion.Licencia
 
         private void btncomprar_Click(object sender, EventArgs e)
         {
-            Process.Start("https://www.facebook.com/codigo369oficial");
+            Process.Start("https://www.facebook.com/HDZJOHAN");
         }
     }
 }

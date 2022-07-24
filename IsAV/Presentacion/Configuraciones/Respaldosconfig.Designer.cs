@@ -60,7 +60,7 @@
             // 
             // Panel12
             // 
-            this.Panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(0)))));
+            this.Panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.Panel12.Controls.Add(this.btncerrar);
             this.Panel12.Controls.Add(this.Label1);
             this.Panel12.Dock = System.Windows.Forms.DockStyle.Top;
@@ -71,7 +71,7 @@
             // 
             // btncerrar
             // 
-            this.btncerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(0)))));
+            this.btncerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btncerrar.BackgroundImage = global::IsAV.Properties.Resources.volverblack;
             this.btncerrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btncerrar.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -222,7 +222,7 @@
             // 
             // btnGenerar
             // 
-            this.btnGenerar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(0)))));
+            this.btnGenerar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btnGenerar.FlatAppearance.BorderSize = 0;
             this.btnGenerar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGenerar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);

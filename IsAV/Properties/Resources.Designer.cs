@@ -73,16 +73,6 @@ namespace IsAV.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ada369logo {
-            get {
-                object obj = ResourceManager.GetObject("ada369logo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap advertencia {
             get {
                 object obj = ResourceManager.GetObject("advertencia", resourceCulture);
@@ -316,6 +306,16 @@ namespace IsAV.Properties {
         internal static System.Drawing.Bitmap insatisfaccion {
             get {
                 object obj = ResourceManager.GetObject("insatisfaccion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IsAVlogo {
+            get {
+                object obj = ResourceManager.GetObject("IsAVlogo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

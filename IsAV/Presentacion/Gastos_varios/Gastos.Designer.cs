@@ -294,7 +294,7 @@
             // 
             // GuardarRegistro
             // 
-            this.GuardarRegistro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(1)))));
+            this.GuardarRegistro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.GuardarRegistro.FlatAppearance.BorderSize = 0;
             this.GuardarRegistro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.GuardarRegistro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -496,7 +496,7 @@
             // 
             // btnguardarConceptos
             // 
-            this.btnguardarConceptos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(1)))));
+            this.btnguardarConceptos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btnguardarConceptos.FlatAppearance.BorderSize = 0;
             this.btnguardarConceptos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnguardarConceptos.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -535,7 +535,7 @@
             // 
             // btnguardarcambiosConceptos
             // 
-            this.btnguardarcambiosConceptos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(1)))));
+            this.btnguardarcambiosConceptos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btnguardarcambiosConceptos.FlatAppearance.BorderSize = 0;
             this.btnguardarcambiosConceptos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnguardarcambiosConceptos.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

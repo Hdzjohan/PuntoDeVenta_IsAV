@@ -65,7 +65,7 @@
             this.Panel8.Dock = System.Windows.Forms.DockStyle.Top;
             this.Panel8.Location = new System.Drawing.Point(0, 0);
             this.Panel8.Name = "Panel8";
-            this.Panel8.Size = new System.Drawing.Size(1381, 86);
+            this.Panel8.Size = new System.Drawing.Size(1370, 86);
             this.Panel8.TabIndex = 589;
             // 
             // Panel3
@@ -154,13 +154,13 @@
             this.Label10.ForeColor = System.Drawing.Color.White;
             this.Label10.Location = new System.Drawing.Point(12, 20);
             this.Label10.Name = "Label10";
-            this.Label10.Size = new System.Drawing.Size(187, 46);
+            this.Label10.Size = new System.Drawing.Size(120, 46);
             this.Label10.TabIndex = 1;
-            this.Label10.Text = "ADA 369";
+            this.Label10.Text = "IsA V";
             // 
             // PictureBox7
             // 
-            this.PictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("PictureBox7.Image")));
+            this.PictureBox7.Image = global::IsAV.Properties.Resources.IsAVlogo;
             this.PictureBox7.Location = new System.Drawing.Point(191, 12);
             this.PictureBox7.Name = "PictureBox7";
             this.PictureBox7.Size = new System.Drawing.Size(110, 63);
@@ -277,16 +277,16 @@
             this.PictureBox1.TabIndex = 604;
             this.PictureBox1.TabStop = false;
             // 
-            // Eleccion_Servidor_o_remoto
+            // Opcionesprincipales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(1381, 749);
+            this.ClientSize = new System.Drawing.Size(1370, 749);
             this.Controls.Add(this.Panel4);
             this.Controls.Add(this.Panel8);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Eleccion_Servidor_o_remoto";
+            this.Name = "Opcionesprincipales";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Opcionesprincipales_Load);

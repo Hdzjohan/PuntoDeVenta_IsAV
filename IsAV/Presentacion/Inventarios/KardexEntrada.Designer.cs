@@ -261,7 +261,7 @@
             // 
             // btn_insertar
             // 
-            this.btn_insertar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(1)))));
+            this.btn_insertar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btn_insertar.FlatAppearance.BorderSize = 0;
             this.btn_insertar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_insertar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);

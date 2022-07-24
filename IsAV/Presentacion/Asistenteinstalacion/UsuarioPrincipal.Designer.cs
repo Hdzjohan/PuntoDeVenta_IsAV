@@ -188,7 +188,7 @@
             // PictureBox2
             // 
             this.PictureBox2.BackColor = System.Drawing.Color.White;
-            this.PictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("PictureBox2.Image")));
+            this.PictureBox2.Image = global::IsAV.Properties.Resources.IsAVlogo;
             this.PictureBox2.Location = new System.Drawing.Point(165, 214);
             this.PictureBox2.Name = "PictureBox2";
             this.PictureBox2.Size = new System.Drawing.Size(340, 194);
@@ -413,7 +413,7 @@
             this.DataGridViewCheckBoxColumn3.Name = "DataGridViewCheckBoxColumn3";
             this.DataGridViewCheckBoxColumn3.ReadOnly = true;
             // 
-            // USUARIOS_AUTORIZADOS_AL_SISTEMA
+            // UsuarioPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -421,7 +421,7 @@
             this.Controls.Add(this.Panel2);
             this.Controls.Add(this.Panel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "USUARIOS_AUTORIZADOS_AL_SISTEMA";
+            this.Name = "UsuarioPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Registro de Usuario Principal";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

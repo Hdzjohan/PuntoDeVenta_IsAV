@@ -278,7 +278,7 @@ namespace IsAV.Presentacion.Configuraciones
             // 
             // Panel12
             // 
-            this.Panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(1)))));
+            this.Panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.Panel12.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.Panel12.Location = new System.Drawing.Point(0, 37);
             this.Panel12.Name = "Panel12";
@@ -1037,7 +1037,7 @@ namespace IsAV.Presentacion.Configuraciones
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 30);
             this.label2.TabIndex = 620;
-            this.label2.Text = "Ruc:";
+            this.label2.Text = "RFC:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // checConectarsunat
@@ -1047,9 +1047,9 @@ namespace IsAV.Presentacion.Configuraciones
             this.checConectarsunat.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.checConectarsunat.Location = new System.Drawing.Point(636, 66);
             this.checConectarsunat.Name = "checConectarsunat";
-            this.checConectarsunat.Size = new System.Drawing.Size(180, 24);
+            this.checConectarsunat.Size = new System.Drawing.Size(155, 24);
             this.checConectarsunat.TabIndex = 615;
-            this.checConectarsunat.Text = "Conectar a SUNAT";
+            this.checConectarsunat.Text = "Conectar a SAT";
             this.checConectarsunat.UseVisualStyleBackColor = true;
             this.checConectarsunat.CheckedChanged += new System.EventHandler(this.checConectarsunat_CheckedChanged);
             // 

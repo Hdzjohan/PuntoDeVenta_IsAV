@@ -151,9 +151,9 @@ namespace IsAV.Presentacion.Menu
             this.Label66.ForeColor = System.Drawing.Color.White;
             this.Label66.Location = new System.Drawing.Point(64, 24);
             this.Label66.Name = "Label66";
-            this.Label66.Size = new System.Drawing.Size(126, 19);
+            this.Label66.Size = new System.Drawing.Size(135, 19);
             this.Label66.TabIndex = 600;
-            this.Label66.Text = "Ada 369 v 2.0";
+            this.Label66.Text = "IsA V ver: 1.0";
             // 
             // panelVisor
             // 

@@ -390,7 +390,7 @@ namespace IsAV.Presentacion.Configuraciones
             this.txtMoneda_String.Name = "txtMoneda_String";
             this.txtMoneda_String.Size = new System.Drawing.Size(218, 15);
             this.txtMoneda_String.TabIndex = 644;
-            this.txtMoneda_String.Text = "SOLES";
+            this.txtMoneda_String.Text = "MXN";
             // 
             // Label1
             // 

@@ -36,6 +36,7 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Impresorasconfig));
             this.Panel12 = new System.Windows.Forms.Panel();
+            this.btncerrar = new System.Windows.Forms.Button();
             this.Panel2 = new System.Windows.Forms.Panel();
             this.Panel1 = new System.Windows.Forms.Panel();
             this.datalistado_empresas_nuevas = new System.Windows.Forms.DataGridView();
@@ -50,7 +51,6 @@
             this.guardarBTN = new System.Windows.Forms.ToolStripMenuItem();
             this.Label6 = new System.Windows.Forms.Label();
             this.Label1 = new System.Windows.Forms.Label();
-            this.btncerrar = new System.Windows.Forms.Button();
             this.Panel12.SuspendLayout();
             this.Panel2.SuspendLayout();
             this.Panel1.SuspendLayout();
@@ -61,13 +61,32 @@
             // 
             // Panel12
             // 
-            this.Panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(0)))));
+            this.Panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.Panel12.Controls.Add(this.btncerrar);
             this.Panel12.Dock = System.Windows.Forms.DockStyle.Top;
             this.Panel12.Location = new System.Drawing.Point(0, 0);
             this.Panel12.Name = "Panel12";
             this.Panel12.Size = new System.Drawing.Size(1014, 233);
             this.Panel12.TabIndex = 607;
+            // 
+            // btncerrar
+            // 
+            this.btncerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(0)))));
+            this.btncerrar.BackgroundImage = global::IsAV.Properties.Resources.volverblack;
+            this.btncerrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btncerrar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btncerrar.FlatAppearance.BorderSize = 0;
+            this.btncerrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btncerrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btncerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btncerrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btncerrar.Location = new System.Drawing.Point(17, 15);
+            this.btncerrar.Margin = new System.Windows.Forms.Padding(5);
+            this.btncerrar.Name = "btncerrar";
+            this.btncerrar.Size = new System.Drawing.Size(56, 29);
+            this.btncerrar.TabIndex = 620;
+            this.btncerrar.UseVisualStyleBackColor = false;
+            this.btncerrar.Click += new System.EventHandler(this.btncerrar_Click);
             // 
             // Panel2
             // 
@@ -291,32 +310,13 @@
             this.Label1.TabIndex = 2;
             this.Label1.Text = "Selecciona Impresora Predeterminada";
             // 
-            // btncerrar
-            // 
-            this.btncerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(0)))));
-            this.btncerrar.BackgroundImage = global::IsAV.Properties.Resources.volverblack;
-            this.btncerrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btncerrar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btncerrar.FlatAppearance.BorderSize = 0;
-            this.btncerrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btncerrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btncerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btncerrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btncerrar.Location = new System.Drawing.Point(17, 15);
-            this.btncerrar.Margin = new System.Windows.Forms.Padding(5);
-            this.btncerrar.Name = "btncerrar";
-            this.btncerrar.Size = new System.Drawing.Size(56, 29);
-            this.btncerrar.TabIndex = 620;
-            this.btncerrar.UseVisualStyleBackColor = false;
-            this.btncerrar.Click += new System.EventHandler(this.btncerrar_Click);
-            // 
-            // Admin_impresoras
+            // Impresorasconfig
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.Panel2);
             this.Controls.Add(this.Panel12);
-            this.Name = "Admin_impresoras";
+            this.Name = "Impresorasconfig";
             this.Size = new System.Drawing.Size(1014, 570);
             this.Load += new System.EventHandler(this.Admin_impresoras_Load);
             this.Panel12.ResumeLayout(false);
