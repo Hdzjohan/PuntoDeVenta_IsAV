@@ -2,73 +2,103 @@
 <?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
 <log>
   <event>Get project references.</event>
-  <event action="Analyze" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
-  <event action="Analyze" type="Success" name="DASHBOARD_PRINCIPAL.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Admin_nivel_dios\DASHBOARD_PRINCIPAL.resx" />
-  <event action="Analyze" type="Success" name="PorCobrarOk.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Apertura_de_credito\PorCobrarOk.resx" />
-  <event action="Analyze" type="Success" name="PorPagar.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Apertura_de_credito\PorPagar.resx" />
-  <event action="Analyze" type="Success" name="Eleccion_Servidor_o_remoto.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\ASISTENTE_DE_INSTALACION_servidor\Eleccion_Servidor_o_remoto.resx" />
-  <event action="Analyze" type="Success" name="Instalacion_del_servidorSQL.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\ASISTENTE_DE_INSTALACION_servidor\Instalacion_del_servidorSQL.resx" />
-  <event action="Analyze" type="Success" name="REGISTRO_DE_EMPRESA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\ASISTENTE_DE_INSTALACION_servidor\REGISTRO_DE_EMPRESA.resx" />
-  <event action="Analyze" type="Success" name="USUARIOS_AUTORIZADOS_AL_SISTEMA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\ASISTENTE_DE_INSTALACION_servidor\USUARIOS_AUTORIZADOS_AL_SISTEMA.resx" />
-  <event action="Analyze" type="Success" name="APERTURA_DE_CAJA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\APERTURA_DE_CAJA.resx" />
-  <event action="Analyze" type="Success" name="Cajas_form.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\Cajas_form.resx" />
-  <event action="Analyze" type="Success" name="CIERRE_DE_CAJA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\CIERRE_DE_CAJA.resx" />
-  <event action="Analyze" type="Success" name="CierreTurno.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\CierreTurno.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\IsAV.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\app.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\packages.config" />
+  <event action="Analyze" type="Success" name="PorCobrarOk.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Apertura_de_credito\PorCobrarOk.resx" />
+  <event action="Analyze" type="Success" name="PorPagar.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Apertura_de_credito\PorPagar.resx" />
+  <event action="Analyze" type="Success" name="Instalacionservidor.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Asistenteinstalacion\Instalacionservidor.resx" />
+  <event action="Analyze" type="Success" name="Opcionesprincipales.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Asistenteinstalacion\Opcionesprincipales.resx" />
+  <event action="Analyze" type="Success" name="Registroempresa.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Asistenteinstalacion\Registroempresa.resx" />
+  <event action="Analyze" type="Success" name="UsuarioPrincipal.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Asistenteinstalacion\UsuarioPrincipal.resx" />
+  <event action="Analyze" type="Success" name="APERTURA_DE_CAJA.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Caja\APERTURA_DE_CAJA.resx" />
+  <event action="Analyze" type="Success" name="Cierrecaja.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Caja\Cierrecaja.resx" />
+  <event action="Analyze" type="Success" name="CierreTurno.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Caja\CierreTurno.resx" />
+  <event action="Analyze" type="Success" name="Listado_gastos_ingresos.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Caja\Listado_gastos_ingresos.resx" />
+  <event action="Analyze" type="Success" name="CobrosForm.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Cobros\CobrosForm.resx" />
+  <event action="Analyze" type="Success" name="MediosCobros.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Cobros\MediosCobros.resx" />
+  <event action="Analyze" type="Success" name="Admincompras.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Compras\Admincompras.resx" />
+  <event action="Analyze" type="Success" name="HistorialCompras.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Compras\HistorialCompras.resx" />
+  <event action="Analyze" type="Success" name="RealizarCompra.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Compras\RealizarCompra.resx" />
+  <event action="Analyze" type="Success" name="Caja_secundaria.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Conexion_remota\Caja_secundaria.resx" />
+  <event action="Analyze" type="Success" name="Conexion_secundaria.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Conexion_remota\Conexion_secundaria.resx" />
+  <event action="Analyze" type="Success" name="Balanzaconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Balanzaconfig.resx" />
+  <event action="Analyze" type="Success" name="Cajasconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Cajasconfig.resx" />
+  <event action="Analyze" type="Success" name="Clientesconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Clientesconfig.resx" />
+  <event action="Analyze" type="Success" name="Correoconfi.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Correoconfi.resx" />
+  <event action="Analyze" type="Success" name="Diseñoticket.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Diseñoticket.resx" />
+  <event action="Analyze" type="Success" name="Empresaconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Empresaconfig.resx" />
+  <event action="Analyze" type="Success" name="Impresorasconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Impresorasconfig.resx" />
+  <event action="Analyze" type="Success" name="MenuConfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\MenuConfig.resx" />
+  <event action="Analyze" type="Success" name="Productosconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Productosconfig.resx" />
+  <event action="Analyze" type="Success" name="Proveedoresconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Proveedoresconfig.resx" />
+  <event action="Analyze" type="Success" name="Respaldosconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Respaldosconfig.resx" />
+  <event action="Analyze" type="Success" name="Serializacionconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Serializacionconfig.resx" />
+  <event action="Analyze" type="Success" name="Usuariosconfig.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Configuraciones\Usuariosconfig.resx" />
+  <event action="Analyze" type="Success" name="GeneradorAutomatico.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\CopiasBd\GeneradorAutomatico.resx" />
+  <event action="Analyze" type="Success" name="Panelcontrol.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Dashboard\Panelcontrol.resx" />
+  <event action="Analyze" type="Success" name="Gastos.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Gastos_varios\Gastos.resx" />
+  <event action="Analyze" type="Success" name="HistorialVentasForm.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\HistorialVentas\HistorialVentasForm.resx" />
+  <event action="Analyze" type="Success" name="IngresosVarios.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Ingresos_varios\IngresosVarios.resx" />
+  <event action="Analyze" type="Success" name="KardexEntrada.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Inventarios\KardexEntrada.resx" />
+  <event action="Analyze" type="Success" name="KardexSalidas.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Inventarios\KardexSalidas.resx" />
+  <event action="Analyze" type="Success" name="Menuinv.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Inventarios\Menuinv.resx" />
+  <event action="Analyze" type="Success" name="Licencias.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Licencia\Licencias.resx" />
   <event action="Analyze" type="Success" />
-  <event action="Analyze" type="Success" name="Register Directives" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\FormatoCierreCaja.html" />
-  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\FormatoCierreCaja.html" />
-  <event action="Analyze" type="Success" name="FormatoCierreCaja.html" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\FormatoCierreCaja.html" />
-  <event action="Analyze" type="Success" name="Listado_gastos_ingresos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\Listado_gastos_ingresos.resx" />
-  <event action="Analyze" type="Success" name="ClientesOk.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CLIENTES_PROVEEDORES\ClientesOk.resx" />
-  <event action="Analyze" type="Success" name="Proveedores.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CLIENTES_PROVEEDORES\Proveedores.resx" />
-  <event action="Analyze" type="Success" name="CobrosForm.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Cobros\CobrosForm.resx" />
-  <event action="Analyze" type="Success" name="MediosCobros.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Cobros\MediosCobros.resx" />
-  <event action="Analyze" type="Success" name="Caja_secundaria.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Conexion_remota\Caja_secundaria.resx" />
-  <event action="Analyze" type="Success" name="Conexion_secundaria.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Conexion_remota\Conexion_secundaria.resx" />
-  <event action="Analyze" type="Success" name="PANEL_CONFIGURACIONES.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CONFIGURACION\PANEL_CONFIGURACIONES.resx" />
-  <event action="Analyze" type="Success" name="CrearCopiaBd.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CopiasBd\CrearCopiaBd.resx" />
-  <event action="Analyze" type="Success" name="GeneradorAutomatico.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CopiasBd\GeneradorAutomatico.resx" />
-  <event action="Analyze" type="Success" name="ConfigurarCorreo.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CorreoBase\ConfigurarCorreo.resx" />
-  <event action="Analyze" type="Success" name="Ticket.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\DISEÑADOR_DE_COMPROBANTES\Ticket.resx" />
-  <event action="Analyze" type="Success" name="EMPRESA_CONFIG.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\EMPRESA_CONFIGURACION\EMPRESA_CONFIG.resx" />
-  <event action="Analyze" type="Success" name="Gastos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Gastos_varios\Gastos.resx" />
-  <event action="Analyze" type="Success" name="Admin_impresoras.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Impresoras\Admin_impresoras.resx" />
-  <event action="Analyze" type="Success" name="IngresosVarios.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Ingresos_varios\IngresosVarios.resx" />
-  <event action="Analyze" type="Success" name="INVENTARIO_MENU.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\INVENTARIOS_KARDEX\INVENTARIO_MENU.resx" />
-  <event action="Analyze" type="Success" name="MembresiasNuevo.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LICENCIAS_MENBRESIAS\MembresiasNuevo.resx" />
-  <event action="Analyze" type="Success" />
-  <event action="Analyze" type="Success" name="Register Directives" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LOGIN\HTMLPage1.html" />
-  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LOGIN\HTMLPage1.html" />
-  <event action="Analyze" type="Success" name="HTMLPage1.html" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LOGIN\HTMLPage1.html" />
-  <event action="Analyze" type="Success" name="LOGIN.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LOGIN\LOGIN.resx" />
-  <event action="Analyze" type="Success" name="MASCARA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\MASCARAS\MASCARA.resx" />
-  <event action="Analyze" type="Success" name="Notificaciones_form.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\NOTIFICACIONES\Notificaciones_form.resx" />
-  <event action="Analyze" type="Success" name="CONEXION_MANUAL.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\PANEL_DE_ADMINISTRACION_DEL_SOFTWARE\CONEXION_MANUAL.resx" />
-  <event action="Analyze" type="Success" name="Asistente_de_importacionExcel.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\PRODUCTOS_OK\Asistente_de_importacionExcel.resx" />
-  <event action="Analyze" type="Success" name="Productos_ok.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\PRODUCTOS_OK\Productos_ok.resx" />
-  <event action="Analyze" type="Success" name="Ticket_report.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\Impresion_de_comprobantes\Ticket_report.resx" />
-  <event action="Analyze" type="Success" name="ReportKARDEX_Movimientos_ok.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\Reporte_de_Kardex_diseño\ReportKARDEX_Movimientos_ok.resx" />
-  <event action="Analyze" type="Success" name="FormInventariosTodos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\FormInventariosTodos.resx" />
-  <event action="Analyze" type="Success" name="FormMovimientosBuscar.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\FormMovimientosBuscar.resx" />
-  <event action="Analyze" type="Success" name="FormReporteMovimientosFILTROS.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\FormReporteMovimientosFILTROS.resx" />
-  <event action="Analyze" type="Success" name="Reporte_Movimientos_con_filtros.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\Reporte_Movimientos_con_filtros.resx" />
-  <event action="Analyze" type="Success" name="ReportInventarios_Todos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\ReportInventarios_Todos.resx" />
-  <event action="Analyze" type="Success" name="ReportMovimientosBuscar.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\ReportMovimientosBuscar.resx" />
-  <event action="Analyze" type="Success" name="SERIALIZACION.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\SERIALIZACION_DE_COMPROBANTES\SERIALIZACION.resx" />
-  <event action="Analyze" type="Success" name="usuariosok.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\USUARIOS_Y_PERMISOS\usuariosok.resx" />
-  <event action="Analyze" type="Success" name="CANTIDAD_A_GRANEL.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\VENTAS_MENU_PRINCIPAL\CANTIDAD_A_GRANEL.resx" />
-  <event action="Analyze" type="Success" name="MEDIOS_DE_PAGO.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\VENTAS_MENU_PRINCIPAL\MEDIOS_DE_PAGO.resx" />
-  <event action="Analyze" type="Success" name="Ventas_en_espera.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\VENTAS_MENU_PRINCIPAL\Ventas_en_espera.resx" />
-  <event action="Analyze" type="Success" name="VENTAS_MENU_PRINCIPALOK.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\VENTAS_MENU_PRINCIPAL\VENTAS_MENU_PRINCIPALOK.resx" />
-  <event action="Analyze" type="Success" name="Resources.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Properties\Resources.resx" />
-  <event action="Analyze" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
-  <event action="Analyze" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp.sln" />
-  <event action="Backup" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
-  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
-  <event action="Upgrade" type="Success" name="ReportKARDEX_Movimientos_ok.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\Reporte_de_Kardex_diseño\ReportKARDEX_Movimientos_ok.resx" />
-  <event action="Upgrade" type="Success" name="Reporte_Movimientos_con_filtros.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\Reporte_Movimientos_con_filtros.resx" />
-  <event action="Upgrade" type="Success" name="ReportInventarios_Todos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\ReportInventarios_Todos.resx" />
-  <event action="Upgrade" type="Success" name="ReportMovimientosBuscar.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\ReportMovimientosBuscar.resx" />
-  <event action="Upgrade" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
-  <event action="Upgrade" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp.sln" />
+  <event action="Analyze" type="Success" name="Register Directives" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\LOGIN\HTMLPage1.html" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\LOGIN\HTMLPage1.html" />
+  <event action="Analyze" type="Success" name="HTMLPage1.html" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\LOGIN\HTMLPage1.html" />
+  <event action="Analyze" type="Success" name="LOGIN.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\LOGIN\LOGIN.resx" />
+  <event action="Analyze" type="Success" name="MenuPrincipal.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Menu\MenuPrincipal.resx" />
+  <event action="Analyze" type="Success" name="Ticket_report.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\Impresion_de_comprobantes\Ticket_report.resx" />
+  <event action="Analyze" type="Success" name="MenuReportes.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\MenuReportes.resx" />
+  <event action="Analyze" type="Success" name="ReporteCobrar.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportePorCobrar\ReporteCobrar.resx" />
+  <event action="Analyze" type="Success" name="ReportePagar.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportePorPagar\ReportePagar.resx" />
+  <event action="Analyze" type="Success" name="ReportKARDEX_Movimientos_ok.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\Reporte_de_Kardex_diseño\ReportKARDEX_Movimientos_ok.resx" />
+  <event action="Analyze" type="Success" name="FormMovimientosBuscar.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\FormMovimientosBuscar.resx" />
+  <event action="Analyze" type="Success" name="FormReporteMovimientosFILTROS.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\FormReporteMovimientosFILTROS.resx" />
+  <event action="Analyze" type="Success" name="Reporte_Movimientos_con_filtros.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\Reporte_Movimientos_con_filtros.resx" />
+  <event action="Analyze" type="Success" name="ReportePbajomin.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\ReportePbajomin.resx" />
+  <event action="Analyze" type="Success" name="ReportePVencidos.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\ReportePVencidos.resx" />
+  <event action="Analyze" type="Success" name="ReportInventarios_Todos.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\ReportInventarios_Todos.resx" />
+  <event action="Analyze" type="Success" name="ReportMovimientosBuscar.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\ReportMovimientosBuscar.resx" />
+  <event action="Analyze" type="Success" name="ResumenVentas.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReporteVentas\ResumenVentas.resx" />
+  <event action="Analyze" type="Success" name="AgregarComBaja.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\AgregarComBaja.resx" />
+  <event action="Analyze" type="Success" name="AgregarNdebito.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\AgregarNdebito.resx" />
+  <event action="Analyze" type="Success" name="AgregarNotacredito.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\AgregarNotacredito.resx" />
+  <event action="Analyze" type="Success" name="ComBaja.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\ComBaja.resx" />
+  <event action="Analyze" type="Success" name="Sboletas.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\Sboletas.resx" />
+  <event action="Analyze" type="Success" name="Sfacturas.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\Sfacturas.resx" />
+  <event action="Analyze" type="Success" name="Smenusunat.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\Smenusunat.resx" />
+  <event action="Analyze" type="Success" name="Snotascredito.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\Snotascredito.resx" />
+  <event action="Analyze" type="Success" name="Snotasdebito.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\SunatForms\Snotasdebito.resx" />
+  <event action="Analyze" type="Success" name="Agregarcliente.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Ventas\Agregarcliente.resx" />
+  <event action="Analyze" type="Success" name="Puntodeventa.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Ventas\Puntodeventa.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="Pruebassunat.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Sunat\Pruebassunat.resx" />
+  <event action="Analyze" type="Success" name="IsAV" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\IsAV.csproj" />
+  <event action="Analyze" type="Success" name="IsAV" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV.sln" />
+  <event action="Backup" type="Success" name="IsAV" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\IsAV.csproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\IsAV.csproj" />
+  <event action="Upgrade" type="Success" name="Ticket_report.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\Impresion_de_comprobantes\Ticket_report.resx" />
+  <event action="Upgrade" type="Success" name="ReportKARDEX_Movimientos_ok.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\Reporte_de_Kardex_diseño\ReportKARDEX_Movimientos_ok.resx" />
+  <event action="Upgrade" type="Success" name="Reporte_Movimientos_con_filtros.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\Reporte_Movimientos_con_filtros.resx" />
+  <event action="Upgrade" type="Success" name="ReportePVencidos.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\ReportePVencidos.resx" />
+  <event action="Upgrade" type="Success" name="ReportInventarios_Todos.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\ReportInventarios_Todos.resx" />
+  <event action="Upgrade" type="Success" name="ReportMovimientosBuscar.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReportesKardex\REPORTES_DE_INVENTARIOS_todos\ReportMovimientosBuscar.resx" />
+  <event action="Upgrade" type="Success" name="ResumenVentas.resx" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\Presentacion\Reportes\ReporteVentas\ResumenVentas.resx" />
+  <event action="Upgrade" type="Success" name="IsAV" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV\IsAV.csproj" />
+  <event action="Upgrade" type="Success" name="IsAV" path="D:\Software HEAJ\PuntoDeVenta_IsAV\IsAV.sln" />
 </log>
